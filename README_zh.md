@@ -65,5 +65,5 @@ Midjourney Style Saver 是一款专为 Midjourney 用户打造的 Chrome 浏览�
 
 本项目采用 MIT 授权许可 - 详情请参阅 [LICENSE](LICENSE.md) 文件。
 
-## 练习方式
+## 联系方式
 dongou1024@protonmail.com

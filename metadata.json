@@ -1,0 +1,5 @@
+{
+  "name": "Midjourney Style Saver v.0.0.1",
+  "description": "A Chrome extension to enhance the Midjourney Style Explorer experience. It allows users to perform one-click bulk saving of style images, automatically creating a local, offline style library for better management and creative workflow.",
+  "requestFramePermissions": []
+}

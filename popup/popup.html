@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MJ Style Saver Settings</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>Midjourney Style Saver</h1>
+            <div class="theme-switcher">
+                <button id="theme-toggle" title="Toggle theme">
+                    <svg id="theme-icon-light" class="hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" /></svg>
+                    <svg id="theme-icon-dark" class="hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" /></svg>
+                </button>
+            </div>
+        </header>
+
+        <main>
+            <div class="setting-group">
+                <label class="setting-label">Image Format</label>
+                <fieldset>
+                    <legend class="sr-only">Image format selection</legend>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input id="format-original" name="image-format" type="radio" value="original">
+                            <label for="format-original">Original</label>
+                        </div>
+                        <div class="radio-item">
+                            <input id="format-jpg" name="image-format" type="radio" value="jpg">
+                            <label for="format-jpg">JPG</label>
+                        </div>
+                        <div class="radio-item">
+                            <input id="format-png" name="image-format" type="radio" value="png">
+                            <label for="format-png">PNG</label>
+                        </div>
+                    </div>
+                </fieldset>
+            </div>
+
+            <div class="setting-group">
+                <label class="setting-label">Storage Method</label>
+                <fieldset>
+                    <legend class="sr-only">Storage method selection</legend>
+                    <div class="radio-group-vertical">
+                        <div class="radio-item">
+                            <input id="storage-auto" name="storage-method" type="radio" value="auto">
+                            <label for="storage-auto">Save automatically (to Downloads folder)</label>
+                        </div>
+                        <div class="radio-item">
+                            <input id="storage-prompt" name="storage-method" type="radio" value="prompt">
+                            <label for="storage-prompt">Ask where to save each time</label>
+                        </div>
+                    </div>
+                </fieldset>
+                <p class="setting-hint">Automatic saving is faster, but will always save to your main Downloads folder.</p>
+            </div>
+
+        </main>
+
+        <footer>
+            <p>Version 0.0.1</p>
+            <p>&copy; 2025 dongou.tech</p>
+        </footer>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>

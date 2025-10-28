@@ -4,8 +4,7 @@
   "version": "0.0.1",
   "description": "One-click bulk save Midjourney style images to your local machine.",
   "permissions": [
-    "storage",
-    "downloads"
+    "storage"
   ],
   "host_permissions": [
     "https://www.midjourney.com/*",

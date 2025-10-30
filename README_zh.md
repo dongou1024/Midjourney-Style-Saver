@@ -11,7 +11,7 @@
 <p align="center">
   <strong>
     <a href="https://chromewebstore.google.com/detail/jbipmcbjahmcmdhoiljjimkdgfepplcm?utm_source=item-share-cb" target="_blank" rel="noopener">
-     🎉 Midjourney 风格保存器现已上架 Chrome 应用商店！你可以直接从Chrome Web Store添加插件
+     🎉 2025-10-29: Midjourney 风格保存器现已上架 Chrome 应用商店！你可以直接从Chrome Web Store添加插件
     </a>
   </strong>
 </p>

@@ -9,6 +9,14 @@
 <h1 align="center">Midjourney Style Saver</h1>
 
 <p align="center">
+  <strong>
+    <a href="https://chromewebstore.google.com/detail/jbipmcbjahmcmdhoiljjimkdgfepplcm?utm_source=item-share-cb" target="_blank" rel="noopener">
+     🎉 Midjourney 风格保存器现已上架 Chrome 应用商店！你可以直接从Chrome Web Store添加插件
+    </a>
+  </strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-v.0.0.1-blue" alt="版本 v.0.0.1">
   <img src="https://img.shields.io/badge/platform-Chrome-brightgreen" alt="Chrome">
 </p>

@@ -10,8 +10,16 @@
 
 <p align="center">
   <strong>
+    <a href="https://www.mjstylesaver.app/" target="_blank" rel="noopener">
+     🎉 2025-11-03: New Version — Full Eagle Integration！Midjourney Style Saver now supports Save to Eagle, allowing you to effortlessly import Midjourney style images into the Eagle App.
+    </a>
+  </strong>
+</p>
+
+<p align="center">
+  <strong>
     <a href="https://chromewebstore.google.com/detail/jbipmcbjahmcmdhoiljjimkdgfepplcm?utm_source=item-share-cb" target="_blank" rel="noopener">
-     🎉 2025-10-29: Midjourney Style Saver is now live on the Chrome Web Store! You can add it directly from the Chrome Web Store.
+      2025-10-29: Midjourney Style Saver is now live on the Chrome Web Store! You can add it directly from the Chrome Web Store.
     </a>
   </strong>
 </p>

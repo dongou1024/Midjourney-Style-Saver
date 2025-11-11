@@ -10,11 +10,20 @@
 
 <p align="center">
   <strong>
-    <a href="https://chromewebstore.google.com/detail/jbipmcbjahmcmdhoiljjimkdgfepplcm?utm_source=item-share-cb" target="_blank" rel="noopener">
-     🎉 2025-10-29: Midjourney 风格保存器现已上架 Chrome 应用商店！你可以直接从Chrome Web Store添加插件
+    <a href="https://www.mjstylesaver.app/" target="_blank" rel="noopener">
+     🎉 2025-11-03: 新版本—全新 Eagle 集成！Midjourney Style Saver 现已支持 Save to Eagle 模式，轻松将 Midjourney 风格图像导入 Eagle App
     </a>
   </strong>
 </p>
+
+<p align="center">
+  <strong>
+    <a href="https://chromewebstore.google.com/detail/jbipmcbjahmcmdhoiljjimkdgfepplcm?utm_source=item-share-cb" target="_blank" rel="noopener">
+     2025-10-29: Midjourney 风格保存器现已上架 Chrome 应用商店！你可以直接从Chrome Web Store添加插件
+    </a>
+  </strong>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v.0.0.1-blue" alt="版本 v.0.0.1">
